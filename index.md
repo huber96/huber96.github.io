@@ -8,11 +8,14 @@ Hi! My name is Denis Huber and I'm a recent graduate from the University of Orga
 
 Pozdrav! Moje ime je Denis Huber i nedavno sam diplomirao na Fakultetu Organizacije i Informatike u Varaždinu. U nastavku su navedeni neki od projekata na kojima sam uglavnom radio u svoje slobodno vrijeme. Koristio sam Unity i C#, ali se nadam proširiti svoje znanje sa novim tehnologijama.
 
+[Link to CV](https://huber96.github.io)
+
 ---
 
 
 ## Unity projects / Unity projekti
 
+---
 
 ### Run! Elo! Run!
 ![Slika platformera](./Images/platformer.png)
@@ -63,3 +66,5 @@ This project is an attempt at implementing the basics of a strategy game. For th
 Projekt je pokušaj izrade osnova za stratešku igru. Trenutačno sadrži: mrežu, potpuno izveden kamera sustav, kretanje bazirano na mreži i pathfinding algoritme poput BFS i Dijkstre.
 
 [Link to Github repo](https://github.com/huber96/PathfindingExamples)
+
+---
