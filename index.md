@@ -1,41 +1,43 @@
-## Welcome to GitHub Pages
+## About me / O meni
 
-You can use the [editor on GitHub](https://github.com/huber96/huber96.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! My name is Denis Huber and I'm a recent graduate from the University of Organization and Informatics in Varaždin, Croatia. Below are some of the projects I've worked on in my free time. For the moment, all of them are done with C# in Unity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bok! Moje ime je Denis Huber i nedavno sam diplomirao sa Fakulteta Organizacije i Informatike u Varaždinu. U nastavku su navedeni neki projekti na kojima sam radio u svoje slobodno vrijeme. Trenutačno se svi izrađeni u C# jeziku preko Unity alata.
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-![TEST](./Images/slika500x250.png)
 
-```markdown
-Syntax highlighted code block
+## Unity projects / Unity projekti
 
-# Header 1
-## Header 2
-### Header 3
+### Run! Elo! Run!
+![Slika platformera](./Images/platformer.png)
 
-- Bulleted
-- List
+Opis
 
-1. Numbered
-2. List
+[Vidjeti ovdje](huber96.github.io)
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+### Tender's hearth
+![Slika iz shader eksperimenata](./Images/tendershearth.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-![TEST2](./Images/slika500x250.png)
+Opis
 
-### Jekyll Themes
+[Vidjeti ovdje](huber96.github.io)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huber96/huber96.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+### Desert adventure
+![Slika iz prototipa avanture](./Images/orbadventure.png)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Opis
 
-![TEST3](./Images/slika500x250.png)
+[Vidjeti ovdje](huber96.github.io)
+
+---
+
+### Pathfinding examples
+![Slika iz pathfinding projekta](./Images/isoigra.png)
+
+Opis
+[Vidjeti ovdje](huber96.github.io)
