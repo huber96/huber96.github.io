@@ -26,7 +26,7 @@ This project is a 3d platformer in which the player collects a set number of cub
 
 Ovaj projekt je trodimenzionalni platformer u kojem igrač manevrira razinom kako bi sakupio kocke i otključao vrata za slijedeću razinu. U tome mu pomaže skakanje, nalet i trčanje po zidu. Igra se sastoji od glavnog izbornika i dvije razine.
 
-[Github repo link](https://github.com/huber96/Platformer)
+[Github repo + video](https://github.com/huber96/Platformer)
 
 ---
 
@@ -39,7 +39,7 @@ A simple scene setup to showcase one of six different shaders.
 
 Jednostavna scena namještena tako da najbolje pokazuje jednog od šest različitih shadera.
 
-[Github repo link](https://github.com/huber96/TendersHearth)
+[Github repo + video](https://github.com/huber96/TendersHearth)
 
 ---
 
@@ -52,7 +52,7 @@ This project is the first iteration of an adventure game, it features fixed came
 
 Ovaj projekt je prva iteracija avanturističke igre, sadrži fiksne uglove, tenk kontrole i jednostavne scene dijaloga. Igrač istražuje likove i okolinu kako bi popravio svoj svemirski brod.
 
-[Github repo link](https://github.com/huber96/AdventureGame)
+[Github repo + video](https://github.com/huber96/AdventureGame)
 
 ---
 
