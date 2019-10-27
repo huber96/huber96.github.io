@@ -1,4 +1,4 @@
-# Denis Huber - junior developer
+# Denis Huber - C# developer
 
 ## About me / O meni
 
