@@ -21,15 +21,13 @@ Pozdrav! Moje ime je Denis Huber i nedavno sam diplomirao na Fakultetu Organizac
 
 ### Dungeon Escape
 
-![Slika iz shader eksperimenata](./Images/tendershearth.png)
+![Slika iz Dungeon Escape avanture](./Images/dungeonescape.png)
 
-A simple scene setup to showcase one of six different shaders.
-
+A short adventure/escape room type game I cooked up to experiment with json and familiarize myself with different adventure game elements.
 \-
 
-Jednostavna scena namještena tako da najbolje pokazuje jednog od šest različitih shadera.
-
-[Github repo + video](https://github.com/huber96/TendersHearth)
+Kratka avantura/escape room igra na kojoj sam radio kako bih eksperimentirao sa jsonom i upoznao sa različitim elementima avanturističkih igara.
+[Github repo + video](https://github.com/huber96/DungeonEscape)
 
 ---
 
