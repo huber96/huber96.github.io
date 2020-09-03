@@ -24,6 +24,7 @@ Pozdrav! Moje ime je Denis Huber i nedavno sam diplomirao na Fakultetu Organizac
 ![Slika iz Dungeon Escape avanture](./Images/dungeonescape.png)
 
 A short adventure/escape room type game I cooked up to experiment with json and familiarize myself with different adventure game elements.
+
 \-
 
 Kratka avantura/escape room igra na kojoj sam radio kako bih eksperimentirao sa jsonom i upoznao sa različitim elementima avanturističkih igara.
