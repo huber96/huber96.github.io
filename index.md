@@ -17,9 +17,9 @@ Pozdrav! Moje ime je Denis Huber i nedavno sam diplomirao na Fakultetu Organizac
 
 ---
 
-##2020
+## 2020
 
-###Dungeon Escape
+### Dungeon Escape
 
 ![Slika iz shader eksperimenata](./Images/tendershearth.png)
 
@@ -33,7 +33,7 @@ Jednostavna scena namještena tako da najbolje pokazuje jednog od šest različi
 
 ---
 
-##2019
+## 2019
 
 ### Run! Elo! Run!
 ![Slika platformera](./Images/platformer.png)
