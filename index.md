@@ -27,6 +27,7 @@ A short adventure/escape room type game I cooked up to experiment with json and 
 \-
 
 Kratka avantura/escape room igra na kojoj sam radio kako bih eksperimentirao sa jsonom i upoznao sa različitim elementima avanturističkih igara.
+
 [Github repo + video](https://github.com/huber96/DungeonEscape)
 
 ---
