@@ -2,13 +2,13 @@
 
 ## About me / O meni
 
-Hi! My name is Denis Huber and I'm a recent graduate from the University of Organization and Informatics in Varaždin, Croatia. Below are some of the projects I've worked on in my free time. I've mostly been working with Unity and C# but I'm hoping to branch out soon!
+Hi! My name is Denis Huber and I'm a graduate from the University of Organization and Informatics in Varaždin, Croatia. Below are some of the projects I've worked on in my free time. I've mostly been working with Unity and C# but I'm hoping to branch out soon!
 
 \-
 
-Pozdrav! Moje ime je Denis Huber i nedavno sam diplomirao na Fakultetu Organizacije i Informatike u Varaždinu. U nastavku su navedeni neki od projekata na kojima sam uglavnom radio u svoje slobodno vrijeme. Koristio sam Unity i C#, ali se nadam proširiti svoje znanje sa novim tehnologijama.
+Pozdrav! Moje ime je Denis Huber i nedavno sam diplomirao na Fakultetu Organizacije i Informatike u Varaždinu. U nastavku su navedeni neki od projekata na kojima sam radio u slobodno vrijeme. Koristio sam Unity i C#, ali se nadam proširiti svoje znanje sa novim tehnologijama.
 
-[Link to CV (HR/ENG)](https://drive.google.com/file/d/1O7O28MGTMAdyXH5orpsjBcQgWPUQRdwJ/view?usp=sharing)
+[Link to CV (HR/ENG)](https://drive.google.com/file/d/1kWMzT3X3X7NfqcpjAUNTR9Ge0BQ9tlNv/view?usp=sharing)
 
 ---
 
@@ -16,6 +16,24 @@ Pozdrav! Moje ime je Denis Huber i nedavno sam diplomirao na Fakultetu Organizac
 ## Unity projects / Unity projekti
 
 ---
+
+##2020
+
+###Dungeon Escape
+
+![Slika iz shader eksperimenata](./Images/tendershearth.png)
+
+A simple scene setup to showcase one of six different shaders.
+
+\-
+
+Jednostavna scena namještena tako da najbolje pokazuje jednog od šest različitih shadera.
+
+[Github repo + video](https://github.com/huber96/TendersHearth)
+
+---
+
+##2019
 
 ### Run! Elo! Run!
 ![Slika platformera](./Images/platformer.png)
@@ -56,7 +74,7 @@ Ovaj projekt je prva iteracija avanturističke igre, sadrži fiksne uglove, tenk
 
 ---
 
-### Pathfinding examples
+### Pathfinding exercises
 ![Slika iz pathfinding projekta](./Images/isoigra.png)
 
 This project is an attempt at implementing the basics of a strategy game. For the moment, it contains: a grid, full camera system, simple grid-based movement and pathfinding (BFS or Dijkstra).
