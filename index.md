@@ -8,7 +8,7 @@ Hi! My name is Denis Huber and I'm a graduate from the University of Organizatio
 
 Pozdrav! Moje ime je Denis Huber i nedavno sam diplomirao na Fakultetu Organizacije i Informatike u Varaždinu. U nastavku su navedeni neki od projekata na kojima sam radio u slobodno vrijeme. Koristio sam Unity i C#, ali se nadam proširiti svoje znanje sa novim tehnologijama.
 
-[Link to CV (HR/ENG)](https://drive.google.com/file/d/1kWMzT3X3X7NfqcpjAUNTR9Ge0BQ9tlNv/view?usp=sharing)
+[Link to CV (HR/ENG)](https://drive.google.com/file/d/1j3r3C58KqA2M5gJZidrravmC2QJyain7/view?usp=sharing)
 
 ---
 
