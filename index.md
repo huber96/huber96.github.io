@@ -19,7 +19,7 @@ Pozdrav! Moje ime je Denis Huber i nedavno sam diplomirao na Fakultetu Organizac
 
 ## 2020
 
-### Dungeon Escape
+### Dungeon Escape (WIP)
 
 ![Slika iz Dungeon Escape avanture](./Images/dungeonescape.png)
 
@@ -71,18 +71,5 @@ This project is the first iteration of an adventure game, it features fixed came
 Ovaj projekt je prva iteracija avanturističke igre, sadrži fiksne uglove, tenk kontrole i jednostavne scene dijaloga. Igrač istražuje likove i okolinu kako bi popravio svoj svemirski brod.
 
 [Github repo + video](https://github.com/huber96/AdventureGame)
-
----
-
-### Pathfinding exercises
-![Slika iz pathfinding projekta](./Images/isoigra.png)
-
-This project is an attempt at implementing the basics of a strategy game. For the moment, it contains: a grid, full camera system, simple grid-based movement and pathfinding (BFS or Dijkstra).
-
-\-
-
-Projekt je pokušaj izrade osnova za stratešku igru. Trenutačno sadrži: mrežu, potpuno izveden kamera sustav, kretanje bazirano na mreži i pathfinding algoritme poput BFS i Dijkstre.
-
-[Github repo link](https://github.com/huber96/PathfindingExamples)
 
 ---
